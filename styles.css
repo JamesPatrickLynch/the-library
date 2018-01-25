@@ -1,5 +1,16 @@
 
 
+/* ================================= 
+Base Layout Styles
+==================================== */
+/* ---- Layout Containers ---- */
+
+.wrapper {
+	width: 70%;
+	margin: 0 auto;
+}
+
+/* ---- Page Elements ---- */
 ul {
     border: 1px solid #555;
     list-style-type: none;
