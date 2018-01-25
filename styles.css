@@ -56,3 +56,7 @@ li a {
 li a:hover {
     background-color: #111111;
 }
+
+.footer-nav {
+    font-size: 50%;
+}
