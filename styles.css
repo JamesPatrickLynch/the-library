@@ -17,8 +17,12 @@ Base Layout Styles
 /* ---- Layout Containers ---- */
 
 .wrapper {
-	width: 90%;
 	margin: 0 auto;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
 }
 
 .main-header {
