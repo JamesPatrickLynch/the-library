@@ -1,4 +1,11 @@
 
+/* ================================= 
+Base Element Styles
+==================================== */
+
+h1 {
+    margin: 0;
+}
 
 /* ================================= 
 Base Layout Styles
@@ -8,6 +15,11 @@ Base Layout Styles
 .wrapper {
 	width: 70%;
 	margin: 0 auto;
+}
+
+.main-header {
+    background: steelblue;
+    padding: 1em 0;
 }
 
 /* ---- Page Elements ---- */
